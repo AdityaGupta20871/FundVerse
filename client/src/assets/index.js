@@ -12,12 +12,17 @@ import menu from './menu.svg';
 import money from './money.svg';
 import loader from './loader.svg';
 import thirdweb from './thirdweb.png';
+ AdityaGupta20871
 import business from './business.svg'
 import deal from './deal.svg';
 
 export {
   deal,
   business,
+=======
+
+export {
+ main
   tagType,
   createCampaign,
   dashboard,

@@ -14,5 +14,9 @@ module.exports = {
       },
     },
   },
+ AdityaGupta20871
   plugins: [require("daisyui")],
+=======
+  plugins: [],
+ main
 }
